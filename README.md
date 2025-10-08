@@ -1,2 +1,7 @@
-# my-first-project_<01-135252-007>
-"My first GitHub repository"
+# My First Project 
+## About This is my first GitHub repository created in ICT Lab.
+ ## Student Info
+ - Name: [Abeera Amjad]
+ - Program: BSIT 
+- Date: 8,October, 2025
+
